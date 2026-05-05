@@ -38,6 +38,7 @@
 ​Gauge Chart: Performance tracking against set sales targets.
 
 ​✅ Step 6: Act
+
 ​Recommendations:
 ​Staffing Optimization: Increase staff allocation during the Afternoon period to maintain high service quality during peak hours.
 ​Product Bundling: Launch promotional bundles (e.g., pairing snacks with Lattes) to increase the average transaction value.
